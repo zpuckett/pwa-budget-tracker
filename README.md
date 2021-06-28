@@ -34,6 +34,6 @@ Screenshot of app below...
 
 ## License
 
-MIT License - see the [LICENSE](LICENSE) for details.
+MIT License - see the [LICENSE](https://www.mit.edu/~amini/LICENSE.md) for details.
 
 
